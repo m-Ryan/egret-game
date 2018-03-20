@@ -1,0 +1,365 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,egret_icon_png,description_json,cat_jpg,defaultBg_png,e0_png,e1_png,e2_png,e3_png,e4_png,e5_png,homebg_png,level1_jpg,n0_png,n1_png,n2_png,n3_png,n4_png,n5_png,n6_png,n7_png,n8_png,n9_png,start_jpg,timer_png,yellowbtn_jpg,chapterMap_json,chapter_sceen_jpg,cadeado_png,back_btn_jpg,store_jpg,okbtn_jpg,buy_png,buy_fail_jpg,startbtn_png,storebtn_png,back_btn_png,unlock_png,gameBg_png,prompt_png,reset_png,pause_png,lose_png,exit_png,next_png,win_png,again_png,store_png,buy_fail_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "cat_jpg",
+			"type": "image",
+			"url": "assets/myPic/cat.jpg"
+		},
+		{
+			"name": "defaultBg_png",
+			"type": "image",
+			"url": "assets/myPic/defaultBg.png"
+		},
+		{
+			"name": "e0_png",
+			"type": "image",
+			"url": "assets/myPic/e0.png"
+		},
+		{
+			"name": "e1_png",
+			"type": "image",
+			"url": "assets/myPic/e1.png"
+		},
+		{
+			"name": "e2_png",
+			"type": "image",
+			"url": "assets/myPic/e2.png"
+		},
+		{
+			"name": "e3_png",
+			"type": "image",
+			"url": "assets/myPic/e3.png"
+		},
+		{
+			"name": "e4_png",
+			"type": "image",
+			"url": "assets/myPic/e4.png"
+		},
+		{
+			"name": "e5_png",
+			"type": "image",
+			"url": "assets/myPic/e5.png"
+		},
+		{
+			"name": "homebg_png",
+			"type": "image",
+			"url": "assets/myPic/homebg.png"
+		},
+		{
+			"name": "level1_jpg",
+			"type": "image",
+			"url": "assets/myPic/level1.jpg"
+		},
+		{
+			"name": "n0_png",
+			"type": "image",
+			"url": "assets/myPic/n0.png"
+		},
+		{
+			"name": "n1_png",
+			"type": "image",
+			"url": "assets/myPic/n1.png"
+		},
+		{
+			"name": "n2_png",
+			"type": "image",
+			"url": "assets/myPic/n2.png"
+		},
+		{
+			"name": "n3_png",
+			"type": "image",
+			"url": "assets/myPic/n3.png"
+		},
+		{
+			"name": "n4_png",
+			"type": "image",
+			"url": "assets/myPic/n4.png"
+		},
+		{
+			"name": "n5_png",
+			"type": "image",
+			"url": "assets/myPic/n5.png"
+		},
+		{
+			"name": "n6_png",
+			"type": "image",
+			"url": "assets/myPic/n6.png"
+		},
+		{
+			"name": "n7_png",
+			"type": "image",
+			"url": "assets/myPic/n7.png"
+		},
+		{
+			"name": "n8_png",
+			"type": "image",
+			"url": "assets/myPic/n8.png"
+		},
+		{
+			"name": "n9_png",
+			"type": "image",
+			"url": "assets/myPic/n9.png"
+		},
+		{
+			"name": "start_jpg",
+			"type": "image",
+			"url": "assets/myPic/start.jpg"
+		},
+		{
+			"name": "timer_png",
+			"type": "image",
+			"url": "assets/myPic/timer.png"
+		},
+		{
+			"name": "yellowbtn_jpg",
+			"type": "image",
+			"url": "assets/myPic/yellowbtn.jpg"
+		},
+		{
+			"name": "chapterMap_json",
+			"type": "json",
+			"url": "chapterMap.json"
+		},
+		{
+			"name": "chapter_sceen_jpg",
+			"type": "image",
+			"url": "assets/myPic/chapter_sceen.jpg"
+		},
+		{
+			"name": "cadeado_png",
+			"type": "image",
+			"url": "assets/myPic/cadeado.png"
+		},
+		{
+			"name": "back_btn_jpg",
+			"type": "image",
+			"url": "assets/myPic/back_btn.jpg"
+		},
+		{
+			"name": "store_jpg",
+			"type": "image",
+			"url": "assets/myPic/store.jpg"
+		},
+		{
+			"name": "okbtn_jpg",
+			"type": "image",
+			"url": "assets/myPic/okbtn.jpg"
+		},
+		{
+			"name": "buy_png",
+			"type": "image",
+			"url": "assets/myPic/buy.png"
+		},
+		{
+			"name": "buy_fail_jpg",
+			"type": "image",
+			"url": "assets/myPic/buy_fail.jpg"
+		},
+		{
+			"name": "startbtn_png",
+			"type": "image",
+			"url": "assets/myPic/startbtn.png"
+		},
+		{
+			"name": "storebtn_png",
+			"type": "image",
+			"url": "assets/myPic/storebtn.png"
+		},
+		{
+			"name": "back_btn_png",
+			"type": "image",
+			"url": "assets/myPic/back_btn.png"
+		},
+		{
+			"name": "unlock_png",
+			"type": "image",
+			"url": "assets/myPic/unlock.png"
+		},
+		{
+			"name": "gameBg_png",
+			"type": "image",
+			"url": "assets/myPic/gameBg.png"
+		},
+		{
+			"name": "prompt_png",
+			"type": "image",
+			"url": "assets/myPic/prompt.png"
+		},
+		{
+			"name": "reset_png",
+			"type": "image",
+			"url": "assets/myPic/reset.png"
+		},
+		{
+			"name": "pause_png",
+			"type": "image",
+			"url": "assets/myPic/pause.png"
+		},
+		{
+			"name": "lose_png",
+			"type": "image",
+			"url": "assets/myPic/lose.png"
+		},
+		{
+			"name": "exit_png",
+			"type": "image",
+			"url": "assets/myPic/exit.png"
+		},
+		{
+			"name": "next_png",
+			"type": "image",
+			"url": "assets/myPic/next.png"
+		},
+		{
+			"name": "win_png",
+			"type": "image",
+			"url": "assets/myPic/win.png"
+		},
+		{
+			"name": "again_png",
+			"type": "image",
+			"url": "assets/myPic/again.png"
+		},
+		{
+			"name": "store_png",
+			"type": "image",
+			"url": "assets/myPic/store.png"
+		},
+		{
+			"name": "buy_fail_png",
+			"type": "image",
+			"url": "assets/myPic/buy_fail.png"
+		}
+	]
+}

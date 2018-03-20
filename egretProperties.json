@@ -1,0 +1,44 @@
+{
+	"native": {
+		"path_ignore": [],
+		"android_path": "H:/project/linkgameapp",
+		"android_as_path": "linkgame"
+	},
+	"publish": {
+		"web": 0,
+		"native": 1,
+		"path": "bin-release"
+	},
+	"egret_version": "5.0.12",
+	"template": {},
+	"eui": {
+		"exmlRoot": [
+			"resource/eui_skins"
+		],
+		"themes": [
+			"resource/default.thm.json"
+		],
+		"exmlPublishPolicy": "content"
+	},
+	"modules": [
+		{
+			"name": "egret"
+		},
+		{
+			"name": "eui"
+		},
+		{
+			"name": "res"
+		},
+		{
+			"name": "tween"
+		},
+		{
+			"name": "game"
+		},
+		{
+			"name": "promise",
+			"path": "./promise"
+		}
+	]
+}
